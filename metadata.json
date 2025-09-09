@@ -1,0 +1,5 @@
+{
+  "name": "FraudShield - Sistema Completo de Análise de Fraudes",
+  "description": "A complete system for analyzing documents, phones, websites, files, and text to identify fraud. Features user authentication to track statistics and history.",
+  "requestFramePermissions": []
+}
